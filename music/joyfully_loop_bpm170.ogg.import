@@ -12,7 +12,7 @@ dest_files=["res://.godot/imported/joyfully_loop_bpm170.ogg-9294280a601734000eaa
 
 [params]
 
-loop=false
+loop=true
 loop_offset=0
 bpm=0
 beat_count=0
